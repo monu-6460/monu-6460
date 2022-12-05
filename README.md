@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monu-6460
+- 👋 Hi, I’m Monu Kumar
 - 👀 I’m interested in Computational Fluid Dynamics
 - 🌱 I’m currently learning Python and vim
 - 💞️ I’m looking to collaborate on Scientific Computing 
